@@ -1,0 +1,32 @@
+Artificial Intelligence for Synthetic Biology
+
+Aaron Adler, BBN Technologies, aaronadler@alum.mit.edu
+<Add Other Authors>
+
+ABSTRACT:
+The Artificial Intelligence for Synthetic Biology AAAI symposium was held at the Westin Arlington Gateway in Arlington, VA on October 18-20, 2018. The primary goal of the symposium was to begin to connect and build mutually beneficial collaborations between the AI and the synthetic biology communities. There are many problems and applications at the intersection of these two fields. The hope is that this is the first of a series of meetings to bring these two communities together. 
+
+
+
+
+Synthetic Biology is a combination of biology and engineering — mixing biological principles; engineering skill; and chemistry, physics, and mathematics. As the fields grows it is apparent that there are many opportunities to apply AI techniques to different problem areas in the field. The Artificial Intelligence for Synthetic Biology symposium was a way to bring together and begin to connect the two communities. The symposium consisted of a mix of 13 technical talks, 3 invited talks, 3 discussion sessions, and a government panel. 
+
+Participants in the symposium had different backgrounds in the two fields. In order to provide a better basis for the talks and discussions we had two invited talks: Prof. Eric Young (WPI) gave the introduction to Synthetic Biology, and Hector Munoz-Avila (Lehigh University) gave the introduction to AI. Prof. Ron Weiss (MIT) gave the keynote talk which covered programmable organoids and a discussion of modularity, which is a key idea in computer science, but not a natural property of living systems. 
+
+The symposium included a government panel discussing funding opportunities in the AI and Synthetic Biology intersection focused on health and defense. Panelists included representatives of DARPA, NSF, NIH, and Edgewood Chemical Biological Center. Discussions included opportunities to apply AI to create, manipulate, or optimize genetic circuits, to apply AI to high fidelity experimental datasets, and to apply AI or machine learning to transfer between biological models and show that predictions are accurate. 
+
+
+Talks addressed existing synergies between the fields including help with the design-build-test-learn cycle. AI techniques that were used include neural nets, deep learning (e.g., applied to cell free systems), active learning, bayesian optimization, unsupervised learning techniques, planning, and semantic state models. 
+<Add more here???>
+
+The symposium included three discussion sessions. The first centered around identifying the big, hard problems in synthetic biology. Challenges included data processing at scale, lack of quality data and metadata, outlier detection, and the need to store negative results. Other challenges centered around knowledge gaps in mapping DNA to its function, in transferring results between model systems, and in predicting biology. Other challenges included a lack of trust in machine learning, the need for explainability of computer suggestions, the need for knowledge in multiple fields, and the need for controlled and repeatable experiments. The second session included highlights of AI expertise of attendees and how the problems from the first discussion might be addressed by AI techniques. Discussion centered around the need for high-quality data. Data collection, repositories, standards, and incentives were discussed along with suggestions for various test cases. The final discussion centered on ethics surrounding AI and synthetic biology. Discussion topics included dual use concerns, gender balance of the fields, boundaries or parameters for research, and ensuring that there is sufficient upstream public engagement. 
+
+The symposium concluded with a discussion of next steps, target publications, and future meeting venues. 
+Aaron Adler (BBN Technologies), Mohammed Eslami (Netrias, LLC),
+Jesse Tordoff (MIT), and Fusun Yaman (BBN Technologies) served as cochairs of the symposium. Some papers and talks are available on the symposium website : https://www.synbiotools.com/ai-for-synbio-fss-2018/ .
+
+
+Aaron Adler is a Senior Scientist at BBN Technologies in Columbia, MD. 
+<Add other authors>
+
+
